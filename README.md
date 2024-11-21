@@ -6,6 +6,10 @@
 **En local :** \Cours\M1\S1\09-TEL\projet
 
 
+## Due date
+
+18/12/2024 à 12h
+
 # Texte réflexif: critères d'évaluation
 
 **Dimension formelle** : Qualité formelle : choix d’un titre, langue, discours (cohérence et cohésion : annonce contenu, transitions, renvois internes), plan/construction, style et lisibilité, respect volume attendu (2500 à 4000 mots + annexes), format de présentation (dont références bibliographiques éventuelles).
